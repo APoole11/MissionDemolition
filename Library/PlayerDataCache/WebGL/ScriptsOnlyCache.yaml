@@ -3,6 +3,7 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - CloudCover
     - FollowCam
+    - Goal
     - GoalHard
     - MissionDemolition
     - Projectile
@@ -133,6 +134,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 5966}
     - Class: 114
       Script: {instanceID: 23944}
+    - Class: 114
+      Script: {instanceID: 23948}
     - Class: 114
       Script: {instanceID: 23952}
     - Class: 114

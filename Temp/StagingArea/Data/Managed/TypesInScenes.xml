@@ -2,6 +2,7 @@
 	<assembly fullname="Assembly-CSharp">
 		<type fullname="CloudCover" preserve="nothing"/>
 		<type fullname="FollowCam" preserve="nothing"/>
+		<type fullname="Goal" preserve="nothing"/>
 		<type fullname="GoalHard" preserve="nothing"/>
 		<type fullname="MissionDemolition" preserve="nothing"/>
 		<type fullname="Projectile" preserve="nothing"/>

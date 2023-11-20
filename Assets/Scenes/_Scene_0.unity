@@ -980,6 +980,8 @@ MonoBehaviour:
   uitShots: {fileID: 82072963}
   castlePos: {x: 50, y: -9.5, z: 0}
   castles:
+  - {fileID: 1178809891305190, guid: bab163b4e5149794bbbd51772ddc5c59, type: 3}
+  - {fileID: 435204676039249813, guid: 0c1be7166d2ee4c299df5f8f862054a3, type: 3}
   - {fileID: 3706289536358373810, guid: ebff1bcadae9e4c598bc20a48efd52a2, type: 3}
   level: 0
   levelMax: 0
